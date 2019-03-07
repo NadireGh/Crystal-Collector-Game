@@ -24,3 +24,5 @@
 * using jQuery onclick function --> assign to each crystal
 
 #### I had screenshot in the Image folder, please check it out.
+
+### Link to Deployed Game: https://nadiregh.github.io/unit-4-game/
