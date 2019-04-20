@@ -25,4 +25,4 @@
 
 #### I had screenshot in the Image folder, please check it out.
 
-### Link to Deployed Game: https://nadiregh.github.io/unit-4-game/
+### Link to Deployed Game: https://nadiregh.github.io/Crystal-Collector-Game/
