@@ -26,3 +26,10 @@
 #### I had screenshot in the Image folder, please check it out.
 
 ### Link to Deployed Game: https://nadiregh.github.io/Crystal-Collector-Game/
+
+## Screenshots:
+
+![alt text](/assets/images/readme.png)
+![alt text](/assets/images/readme1.png)
+![alt text](/assets/images/readme2.png)
+![alt text](/assets/images/readme3.png)
